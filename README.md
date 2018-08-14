@@ -9,8 +9,8 @@ Create a ui that only function is to total onscreen elements, purely static
 and once loaded the ui does not change. Item name and price are stored in  
 code.   
 
-https://github.com/gdgkctest/meetup_foodie/blob/master/images/phase0.jpg
-<img src="https://github.com/gdgkctest/meetup_foodie/blob/master/images/phase0.jpg" width="200">
+https://github.com/gdgkctest/meetup_foodie/blob/master/images/phase0.jpg  
+<img src="https://github.com/gdgkctest/meetup_foodie/blob/master/images/phase0.jpg" width="400">
 
 ###Phase 1 - Adding Interactivity   
 Values are still stored in code, ui has dropdowns for quantity and submit  
