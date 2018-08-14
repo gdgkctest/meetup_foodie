@@ -5,7 +5,7 @@ A budgeting app for catering food for meetups
 ##Project Proposal
 
 ###Phase 0 - basic ui
-
+[[https://github.com/gdgkctest/meetup_foodie/blob/master/images/phase0.jpg]]
 ###Phase 1 - basic ui
 ###Phase 2 - basic ui
 ###Phase 3 - basic ui
